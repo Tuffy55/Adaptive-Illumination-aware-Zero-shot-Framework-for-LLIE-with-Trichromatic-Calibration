@@ -26,19 +26,13 @@
 │   ├── Epoch19.pth #  A pre-trained snapshot (Epoch19.pth)
 ```
 ### Test: 
-
-cd code
 ```
 python code/lowlight_test.py 
 ```
 The script will process the images in the sub-folders of "test_data" folder and make a new folder "result" in the "data". You can find the enhanced images in the "result" folder.
 
 ### Train: 
-1) cd code
-
-2) download the training data <a href="https://drive.google.com/file/d/1GAB3uGsmAyLgtDBDONbil08vVu5wJcG3/view?usp=sharing">google drive</a> 
-
-3) unzip and put the  downloaded "train_data" folder to "data" folder
+Download the training data <a href="https://drive.google.com/file/d/1GAB3uGsmAyLgtDBDONbil08vVu5wJcG3/view?usp=sharing">google drive</a> and unzip and put the  downloaded "train_data" folder to "data" folder
 ```
 python code/lowlight_train.py 
 ```
