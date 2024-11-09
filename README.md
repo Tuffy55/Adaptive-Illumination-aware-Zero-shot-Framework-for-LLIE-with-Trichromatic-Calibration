@@ -14,7 +14,7 @@
 ### Folder structure
 ```
 ├── data
-│   ├── test_data # testing data. You can make a new folder for your testing data, like LIME, MEF, and NPE.
+│   ├── test_data # testing data. You can make a new folder for your testing data, like DarkFace and ExDark.
 │   │   ├── darkface 
 │   │   └── exdark
 │   └── train_data 
