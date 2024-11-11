@@ -1,4 +1,4 @@
-# Adaptive Illumination-aware Zero-shot Framework for Low-light Image Enhancement with Trichromatic Calibration
+# Trichromatic Calibration Enhanced Zero-shot Framework for Robust Low-light Image Enhancement
 
 
 
