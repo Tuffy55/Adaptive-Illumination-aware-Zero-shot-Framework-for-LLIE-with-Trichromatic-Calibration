@@ -26,6 +26,7 @@
 │   ├── Epoch19.pth #  A pre-trained snapshot (Epoch19.pth)
 ```
 ### Test: 
+Download the testing data at <a herf="https://flyywh.github.io/CVPRW2019LowLight/">DarkFace</a>, <a herf="https://github.com/cs-chan/Exclusively-Dark-Image-Dataset">ExDark</a>, <a herf="https://daooshee.github.io/BMVC2018website/">LOL</a>, <a herf="https://github.com/csjcai/SICE#learning-a-deep-single-image-contrast-enhancer-from-multi-exposure-images">SICE</a>, <a herf="https://sites.google.com/site/vonikakis/datasets">VV</a>
 ```
 python code/lowlight_test.py 
 ```
